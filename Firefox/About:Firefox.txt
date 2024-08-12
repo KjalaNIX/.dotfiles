@@ -1,0 +1,1 @@
+Customizations to the independent, Open-Source, independent browser; Firefox. CSS and JS
