@@ -1,0 +1,9 @@
+@-moz-document url(about:newtab), url(about:home) { 
+/* Changes the logo on the about:home screen */
+.logo {background-image: url("image.png") !important;}
+ 
+ @-moz-document url-prefix("about:") {
+  :root {
+    font-family: JetBrains Mono !important;
+  }
+}
