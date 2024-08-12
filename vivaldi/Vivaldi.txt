@@ -1,0 +1,1 @@
+Here is a simple script for a Yandex.Browser user on the side. A Я.Browser-like clean urlbar.
