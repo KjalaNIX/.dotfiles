@@ -1,0 +1,1 @@
+This is my GlazeWM Config. Nothing fancy. Just some keyboard shortcuts for automation.
