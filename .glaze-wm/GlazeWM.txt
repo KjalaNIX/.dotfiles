@@ -1,1 +1,0 @@
-This is my GlazeWM config. Nothing fancy, just some keyboard shortcuts for automation. GlazeWM is a Window Manager made for the MS Windows Operating Systems 10 & 11.
