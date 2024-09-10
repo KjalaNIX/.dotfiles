@@ -1,0 +1,35 @@
+ @-moz-document url-prefix("about:") {
+  :root {
+    font-family: ShureTechMono Nerd Font !important;
+  }
+}
+
+
+
+
+@-moz-document url("about:newtab"), url("about:home"){
+  body{
+    /* This will load image.jpg stored in the same folder as this file */
+    background-image: url("samurai.png") !important;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position-x: center;
+    background-position-y: bottom;
+  }
+}
+.search-handoff-button,
+  .tile{
+    background-color: transparent !important;
+    backdrop-filter: blur(10px);
+    border:1px solid;
+    font-family: ShureTechMono Nerd Font !important;
+  }
+}
+.search-wrapper {
+   border: 1px solid;
+   border-radius:20px ;
+   background-color: transparent !important;
+   backdrop-filter: blur(10px);
+   border:1px solid;
+}

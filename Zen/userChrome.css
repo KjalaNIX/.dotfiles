@@ -1,0 +1,24 @@
+/*
+  Custom tweaks ::
+  My name is Commander Kjala and I have custom CSS for Firefox, I place them in this file.
+  =========================================================================
+*/
+  
+    #urlbar {
+  font-size: 13px;
+  font-family: ShureTechMono Nerd Font;
+}
+
+#tabbrowser-tabs {
+  font-family: 'ShureTechMono Nerd Font', monospace !important;
+}
+
+#appMenu-popup {
+  font-family: ShureTechMono Nerd Font !important;
+}
+  .search-wrapper {
+   font-family: 'ShureTechMono Nerd Font', monospace !important;
+
+}
+
+@import url(theme/position-window-controls.css);
