@@ -1,0 +1,77 @@
+{
+    "workbench.colorTheme": "Tokyo Night Storm",
+    "window.zoomLevel": 1.5,
+    "workbench.sideBar.location": "right",
+    "workbench.layoutControl.enabled": false,
+    "workbench.colorCustomizations": {
+        "list.activeSelectionBackground": "#2B3035",
+        "list.inactiveSelectionBackground": "#2B3035",
+        "list.hoverBackground": "#2B3035",
+    },
+    "editor.minimap.enabled":false,
+    "editor.fontFamily": "'ShureTechMono Nerd Font', monospace",
+    "apc.stylesheets": {
+    "monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(to bottom, #FFFF00, #FFFFFF)",
+},
+    
+    "window.titleBarStyle": "native",
+    "apc.stylesheet": {
+        ".monaco-editor .cursors-layer .cursor": "background-image: linear-gradient(135deg, #67D0FF 10%, #C45DFF 100%)",
+    },
+    "apc.font.family": "ShureTechMono Nerd Font",
+    "apc.menubar.compact": true,
+    "apc.statusBar": {
+        "position": "editor-bottom"
+    },
+    "apc.electron": {
+        "opacity": 1,
+        "titleBarStyle": "hidden"
+
+    },
+    "apc.activityBar": {
+        "position": "bottom",
+        "size": 29,
+        "itemSize": 22,
+        "itemMargin": 6
+    },
+    "apc.sidebar.titlebar": {
+        "fontFamily": "Dank Mono",
+        "height": 45,
+        "fontSize": 14
+    },
+    "apc.listRow": {
+        "lists": [
+            
+            "explorer-folders-view",
+            
+        ],
+        "height": 28,
+        "fontSize": 14
+    },
+    "apc.header": {
+        "height": 45,
+    },
+
+
+    "customizeUI.font.regular": "\"customizeUI.font.regular\": \"Fira Code Mono\",",
+    "customizeUI.fontSizeMap": {
+        "10px": "9px",
+        "13px": "11px",
+        "monospace": "12px"
+    },
+    "editor.fontSize": 13,
+    "workbench.iconTheme": "material-icon-theme",
+    "animations.Scrolling": "Slide",
+    "animations.Auto-Install": false,
+    "apc.imports": [
+        "file:///c:/Users/Kjala/.vscode-oss/extensions/brandonkirbyson.vscode-animations-2.0.1-universal/dist/updateHandler.js",
+        "file:///c:/Users/Kjala/.vscode-oss/css-mod/vscodium.css"
+    ],
+    "animations.Tabs": "Slide",
+    "animations.CursorAnimation": true,
+    "window.menuBarVisibility": "classic",
+    "workbench.startupEditor": "none",
+    "window.customTitleBarVisibility": "never",
+    "redhat.telemetry.enabled": false,
+    "window.density.editorTabHeight": "compact"
+}
