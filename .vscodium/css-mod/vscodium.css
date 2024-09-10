@@ -1,0 +1,30 @@
+/* style(command-palette) centring */
+.quick-input-widget {
+    transform: translateY(-50%) !important;
+    top: 50% !important;
+    outline: 1px solid var(--vscode-focusBorder, var(--vscode-input-border, transparent));
+  }
+  
+  .quick-input-list .monaco-list {
+    max-height: initial !important;
+    height: 35vh !important;
+  }
+  
+  .monaco-grid-view {
+    transition: filter 200ms ease;
+  }
+  .slider {
+    position: absolute !important;
+    right: 5px !important;
+    width: 5px !important;
+    background: #B7CFE6 !important;
+    left: auto !important;
+  }
+  .codicon-arrow-right, .codicon-arrow-left {
+    display: none !important;
+  }
+  .search-label {
+    font-size: 14px !important;
+    display: block;
+    color:#fff,
+  }
